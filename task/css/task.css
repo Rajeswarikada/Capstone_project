@@ -2,7 +2,7 @@
 			height:250px;
 			width:800px;
 			height:400px;
-			background-color:ghostwhite;
+			background-color:white;
 			background-repeat:no-repeat;
 			background-size:cover;
 			background-image:url(../images/girl.jpg);
@@ -14,7 +14,6 @@
 			padding-left:50px;
 			padding-right:50px;
 			font-size:20px;
-
 		}
 		.c{
 			color:skyblue;
@@ -66,7 +65,7 @@
 		.div4{
 			width:800px;
 			height:400px;
-			background-color:ghostwhite;
+			background-color:white;
 		}
 		.div5{
 			height: 350px;
@@ -264,7 +263,7 @@
 			margin-bottom:0px;
 		}
 		textarea{
-			font-size:40px;
+			font-size:20px;
 		}
 		input{
 			font-size:15px;
